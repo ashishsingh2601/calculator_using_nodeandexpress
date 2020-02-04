@@ -1,0 +1,27 @@
+
+*{
+    margin: 0;
+    padding:0;
+}
+
+.container{
+    text-align: center;
+}
+.mainContainer{
+    background-color: azure;
+}
+.content{
+
+    padding: 50px;
+    box-sizing: border-box;
+    box-shadow: 10px 10px blue;
+    border: solid black 3px;
+    margin-top: 50px ;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+.header{
+    background-color: cornflowerblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    
+}
