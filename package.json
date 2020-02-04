@@ -1,0 +1,19 @@
+{
+  "name": "calculator_using_nodeandexpress",
+  "version": "1.0.0",
+  "description": "Making calculator app using node.js and express.js",
+  "main": "calculator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ashishsingh2601/calculator_using_nodeandexpress.git"
+  },
+  "author": "Ashish Singh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ashishsingh2601/calculator_using_nodeandexpress/issues"
+  },
+  "homepage": "https://github.com/ashishsingh2601/calculator_using_nodeandexpress#readme"
+}
